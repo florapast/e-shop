@@ -1,0 +1,36 @@
+main {
+  min-height: 80vh;
+}
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+.card-title {
+  font-size: 0.9rem;
+}
+
+.step-style {
+  font-size: 1rem;
+}
+
+/* carousel */
+.carousel-style {
+  height: 400px;
+  width: 450px;
+  margin: auto;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 0;
+}
